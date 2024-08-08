@@ -8,3 +8,5 @@ To observe whether there has been a decreasing trend in the suicide rate in Taiw
 To analyze suicide rates based on gender, age, region, and method of suicide.
 To explore the correlation between suicide rates and the availability of mental health care professionals.
 To examine whether changes in the unemployment rate affect suicide rates.
+
+Team: 朱嘉翎
